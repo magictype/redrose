@@ -1,0 +1,11 @@
+
+# Font Binaries
+*.otf
+*.ttf
+*.exe
+*.zip
+#OTF/TTF Folder
+OTF/
+TTF/
+#Temporary Folder
+temp/
