@@ -9,3 +9,11 @@ OTF/
 TTF/
 #Temporary Folder
 temp/
+
+# file manager empty files
+.DS_Store
+.empty
+.sparkleshare
+# font editor temporary files
+*(Autosaved).glyphs
+*.vfbak
