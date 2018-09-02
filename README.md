@@ -2,9 +2,7 @@
 
 Red Rose Pro is a Latin Display typeface designed by Jaikishan Patel. That typeface is exclusively designed for posters of Genre: Love, Romance, Drama, Thriller, Noir and Passion.
 
-Font weights: light, regular and bold
-
-Glyphs: 640 (Latin Plus)
+Font weights: light, regular and bold | Glyphs: 640 (Latin Plus)
 
 
 ![web_redrose_dribble_redrose_150](https://user-images.githubusercontent.com/42322651/44004911-6d5bf576-9e88-11e8-9e67-3778f8249d20.jpg)
