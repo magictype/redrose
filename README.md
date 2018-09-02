@@ -1,11 +1,18 @@
 # Red Rose Pro
 
-Red Rose Pro is a Latin Display typeface designed by Jaikishan Patel. Current version of the typeface includes 3 weights; light, regular and bold. That typeface is exclusively designed for posters of Genre: Love, Romance, Drama, Thriller, Noir and Passion.
+Red Rose Pro is a Latin Display typeface designed by Jaikishan Patel. That typeface is exclusively designed for posters of Genre: Love, Romance, Drama, Thriller, Noir and Passion.
+
+Font weights: light, regular and bold
+
+Glyphs: 640 (Latin Plus)
+
 
 ![web_redrose_dribble_redrose_150](https://user-images.githubusercontent.com/42322651/44004911-6d5bf576-9e88-11e8-9e67-3778f8249d20.jpg)
 
-### Honestly Selfish. And of course, Beautiful.
-A beautiful liar, born in such a fake and creepy surrounding that offered no other choice than to be like the way it is. It would have definitely become a criminal if not selfish. It's so poisoned from inside that it has to look beautiful. Every other moment.
+
+### The Red Rose
+
+**Honestly Selfish. And of course, Beautiful.** A beautiful liar, born in such a fake and creepy surrounding that offered no other choice than to be like the way it is. It would have definitely become a criminal if not selfish. It's so poisoned from inside that it has to look beautiful. Every other moment.
 
 Read more at: http://magictype.in/red-rose/
 
