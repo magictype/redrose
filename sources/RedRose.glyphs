@@ -6,7 +6,8 @@ DisplayStrings = (
 "/ahookabove",
 noHOAe,
 "/aogonek/Dcroat",
-"/f_f  /f_f_i  /f_f_ij  /f_f_l    /f_i  /f_ij  /f_l  /fi  /fl \012ff ffi ffij ffl fi fij fl fi fl\012nninoioo\012nnjnojoonnnn"
+"/f_f  /f_f_i  /f_f_ij  /f_f_l    /f_i  /f_ij  /f_l  /fi  /fl \012ff ffi ffij ffl fi fij fl fi fl\012nninoioo\012nnjnojoonnnn",
+"/Abrevetilde"
 );
 copyright = "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)";
 customParameters = (
