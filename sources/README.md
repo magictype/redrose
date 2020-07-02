@@ -1,5 +1,5 @@
 ## Building fonts
-Generate the fonts first from glyphsapp then run the fix-hinting.sh script.
+Generate the fonts with Fontmake using the build script for it. It includes fixes on hinting among others.
 
 Firstly, you will need to install gftools by doing the following:
 
@@ -9,13 +9,13 @@ python3 -m venv venv
 # activate virtualenv
 source venv/bin/activate
 
-# install gftools
-pip install git+https://www.github.com/googlefonts/tools
+# install the requirements
+pip install -r requirements.txt
 
 ```
 
-Once gftools is installed, we can run the following commanf to fix the family's hinting:
+Once gftools is installed, we can run the following commanf to generate the fonts:
 
 ```
-sh fix-hinting.sh
+sh build.sh
 ```
