@@ -277,6 +277,7 @@ verticalStems = (
 52
 );
 weight = Light;
+weightValue = 52;
 xHeight = 468;
 },
 {
@@ -332,7 +333,7 @@ verticalStems = (
 102,
 112
 );
-weightValue = 400;
+weightValue = 102;
 xHeight = 468;
 },
 {
@@ -394,7 +395,7 @@ verticalStems = (
 );
 visible = 1;
 weight = Bold;
-weightValue = 700;
+weightValue = 142;
 xHeight = 468;
 }
 );
@@ -103734,21 +103735,41 @@ rightKerningGroup = zero;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 300;
+}
+);
+interpolationWeight = 62;
 instanceInterpolations = {
-"CA5CD7F6-F0E6-40F5-9716-481B35A0BC32" = 1;
+"083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4" = 0.2;
+"CA5CD7F6-F0E6-40F5-9716-481B35A0BC32" = 0.8;
 };
 name = Light;
 weightClass = Light;
 },
 {
-interpolationWeight = 400;
+customParameters = (
+{
+name = weightClass;
+value = 400;
+}
+);
+interpolationWeight = 102;
 instanceInterpolations = {
 "083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4" = 1;
 };
 name = Regular;
 },
 {
-interpolationWeight = 700;
+customParameters = (
+{
+name = weightClass;
+value = 700;
+}
+);
+interpolationWeight = 142;
 instanceInterpolations = {
 "1A280FA7-9E72-4FC3-84C1-49B7BD56B269" = 1;
 };
