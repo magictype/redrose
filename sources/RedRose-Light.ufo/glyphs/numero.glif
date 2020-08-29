@@ -3,8 +3,35 @@
   <advance width="1166"/>
   <unicode hex="2116"/>
   <outline>
+    <contour>
+      <point x="932.6766" y="173.333" type="curve" smooth="yes"/>
+      <point x="1061.3497" y="173.333"/>
+      <point x="1104.6852" y="242.6698"/>
+      <point x="1104.6852" y="335.3411" type="curve" smooth="yes"/>
+      <point x="1104.6852" y="428.01239999999996"/>
+      <point x="1064.6832" y="498.6826"/>
+      <point x="932.6766" y="498.6826" type="curve" smooth="yes"/>
+      <point x="800.67" y="498.6826"/>
+      <point x="760.668" y="428.01239999999996"/>
+      <point x="760.668" y="335.3411" type="curve" smooth="yes"/>
+      <point x="760.668" y="242.6698"/>
+      <point x="798.6699" y="173.333"/>
+    </contour>
+    <contour>
+      <point x="932.6766" y="200.001" type="curve" smooth="yes"/>
+      <point x="841.3387" y="200.001"/>
+      <point x="795.3364" y="238.6696"/>
+      <point x="795.3364" y="334.6744" type="curve" smooth="yes"/>
+      <point x="795.3364" y="430.6792"/>
+      <point x="842.0054" y="472.0146"/>
+      <point x="932.6766" y="472.0146" type="curve" smooth="yes"/>
+      <point x="1023.3478" y="472.0146"/>
+      <point x="1070.0167999999999" y="433.346"/>
+      <point x="1070.0167999999999" y="335.3411" type="curve" smooth="yes"/>
+      <point x="1070.0167999999999" y="237.3362"/>
+      <point x="1024.0145" y="200.001"/>
+    </contour>
     <component base="N"/>
-    <component base="o" xScale="0.6667" yScale="0.6667" xOffset="734" yOffset="180"/>
     <component base="macroncomb" xOffset="1238" yOffset="-590"/>
   </outline>
   <lib>

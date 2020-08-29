@@ -30,7 +30,10 @@ do
 	gftools fix-dsig -f $ttf;
 	python3 -m ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
+	# enable glyf table OVERLAP_COMPOUND on first component flags
+	python -c $'import sys; from fontTools.ttLib import TTFont; p=sys.argv[-1]; f=TTFont(p); t=f["glyf"]\nfor g in [t[k] for k in t.keys()]:\n if g.isComposite():\n  g.components[0].flags |= 0x0400\nf.save(p)' $ttf
 done
+
 
 vfs=$(ls ../fonts/variable/*.ttf)
 

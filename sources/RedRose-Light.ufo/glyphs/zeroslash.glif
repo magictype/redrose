@@ -2,8 +2,13 @@
 <glyph name="zeroslash" format="2">
   <advance width="616"/>
   <outline>
+    <contour>
+      <point x="92.04600000000005" y="138" type="line"/>
+      <point x="526.4504" y="426" type="line"/>
+      <point x="526.4504" y="476" type="line"/>
+      <point x="92.04600000000005" y="188" type="line"/>
+    </contour>
     <component base="zero"/>
-    <component base="slashshortcomb" xScale="1.1254" xOffset="666" yOffset="158"/>
   </outline>
   <lib>
     <dict>

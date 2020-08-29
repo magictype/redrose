@@ -3,7 +3,52 @@
   <advance width="328"/>
   <unicode hex="00B3"/>
   <outline>
-    <component base="three" xScale="0.5" yScale="0.5" xOffset="20" yOffset="445"/>
+    <contour>
+      <point x="167.0" y="440.0" type="curve" smooth="yes"/>
+      <point x="254.0" y="440.0"/>
+      <point x="288.0" y="477.0"/>
+      <point x="288.0" y="527.5" type="curve" smooth="yes"/>
+      <point x="288.0" y="568.0"/>
+      <point x="264.0" y="594.0"/>
+      <point x="224.0" y="601.0" type="curve"/>
+      <point x="224.0" y="602.0" type="line"/>
+      <point x="250.0" y="613.5"/>
+      <point x="268.0" y="640.0"/>
+      <point x="268.0" y="674.5" type="curve" smooth="yes"/>
+      <point x="268.0" y="719.5"/>
+      <point x="245.5" y="750.0"/>
+      <point x="161.5" y="750.0" type="curve" smooth="yes"/>
+      <point x="100.0" y="750.0"/>
+      <point x="59.0" y="733.0"/>
+      <point x="45.0" y="720.0" type="curve"/>
+      <point x="55.0" y="663.5" type="line"/>
+      <point x="55.0" y="648.5" type="line"/>
+      <point x="72.5" y="668.5"/>
+      <point x="114.0" y="695.0"/>
+      <point x="162.5" y="695.0" type="curve" smooth="yes"/>
+      <point x="183.5" y="695.0"/>
+      <point x="192.0" y="685.5"/>
+      <point x="192.0" y="665.5" type="curve" smooth="yes"/>
+      <point x="192.0" y="633.5"/>
+      <point x="180.0" y="620.0"/>
+      <point x="147.5" y="620.0" type="curve" smooth="yes"/>
+      <point x="100.0" y="620.0" type="line"/>
+      <point x="100.0" y="567.5" type="line"/>
+      <point x="147.5" y="567.5" type="line" smooth="yes"/>
+      <point x="194.5" y="567.5"/>
+      <point x="212.0" y="556.0"/>
+      <point x="212.0" y="531.0" type="curve" smooth="yes"/>
+      <point x="212.0" y="508.0"/>
+      <point x="197.5" y="495.0"/>
+      <point x="158.0" y="495.0" type="curve" smooth="yes"/>
+      <point x="102.0" y="495.0"/>
+      <point x="64.0" y="517.0"/>
+      <point x="50.5" y="533.5" type="curve"/>
+      <point x="50.5" y="518.5" type="line"/>
+      <point x="40.0" y="460.0" type="line"/>
+      <point x="54.5" y="451.5"/>
+      <point x="99.0" y="440.0"/>
+    </contour>
   </outline>
   <lib>
     <dict>

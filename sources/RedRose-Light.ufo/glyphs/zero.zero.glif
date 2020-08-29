@@ -3,8 +3,13 @@
   <advance width="616"/>
   <anchor x="312" y="312" name="center"/>
   <outline>
+    <contour>
+      <point x="104.05399999999997" y="100.632" type="line"/>
+      <point x="514.9896" y="451.53119999999996" type="line"/>
+      <point x="514.9896" y="512.4512" type="line"/>
+      <point x="104.05399999999997" y="161.552" type="line"/>
+    </contour>
     <component base="zero"/>
-    <component base="slashshortcomb" xScale="1.0646" yScale="1.2184" xOffset="647" yOffset="125"/>
   </outline>
   <lib>
     <dict>

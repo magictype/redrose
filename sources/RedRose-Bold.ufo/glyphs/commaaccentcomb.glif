@@ -4,7 +4,27 @@
   <anchor x="-184" y="0" name="_bottom"/>
   <anchor x="-174" y="-370" name="bottom"/>
   <outline>
-    <component base="comma" xScale="0.90909" yScale="0.90909" xOffset="-317" yOffset="-171"/>
+    <contour>
+      <point x="-233.36372" y="-292.81806" type="line"/>
+      <point x="-167.00015000000002" y="-286.45443"/>
+      <point x="-107.00021000000001" y="-235.54539"/>
+      <point x="-107.00021000000001" y="-161.9091" type="curve" smooth="yes"/>
+      <point x="-107.00021000000001" y="-105.54552000000001"/>
+      <point x="-137.90927000000002" y="-65.54556000000001"/>
+      <point x="-197.90921" y="-65.54556000000001" type="curve" smooth="yes"/>
+      <point x="-246.09098" y="-65.54556000000001"/>
+      <point x="-271.5455" y="-94.63644000000001"/>
+      <point x="-271.5455" y="-133.72731" type="curve" smooth="yes"/>
+      <point x="-271.5455" y="-166.45455"/>
+      <point x="-248.81825" y="-183.72726"/>
+      <point x="-217.0001" y="-183.72726" type="curve" smooth="yes"/>
+      <point x="-196.09103" y="-183.72726"/>
+      <point x="-182.45468" y="-176.45454"/>
+      <point x="-175.18196" y="-171.0" type="curve"/>
+      <point x="-175.18196" y="-215.54541"/>
+      <point x="-211.54556000000002" y="-240.99993"/>
+      <point x="-262.4546" y="-245.54538" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>

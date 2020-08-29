@@ -3,7 +3,15 @@
   <advance width="400"/>
   <unicode hex="2264"/>
   <outline>
-    <component base="greater" xScale="-1" xOffset="400"/>
+    <contour>
+      <point x="370" y="110" type="line"/>
+      <point x="30" y="240" type="line"/>
+      <point x="30" y="360" type="line"/>
+      <point x="370" y="490" type="line"/>
+      <point x="370" y="390" type="line"/>
+      <point x="126" y="300" type="line"/>
+      <point x="370" y="210" type="line"/>
+    </contour>
     <component base="minus" yOffset="-250"/>
   </outline>
   <lib>

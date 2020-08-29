@@ -60,7 +60,34 @@
       <point x="202.181" y="544.453"/>
       <point x="182.072" y="544.453" type="curve" smooth="yes"/>
     </contour>
-    <component base="circle" xScale="0.4444" yScale="0.4444" xOffset="17" yOffset="410"/>
+    <contour>
+      <point x="180.5392" y="405.556" type="curve" smooth="yes"/>
+      <point x="271.6412" y="405.556"/>
+      <point x="330.7464" y="452.218"/>
+      <point x="330.7464" y="543.3199999999999" type="curve" smooth="yes"/>
+      <point x="330.7464" y="633.5332000000001"/>
+      <point x="271.6412" y="681.0840000000001"/>
+      <point x="180.5392" y="681.0840000000001" type="curve" smooth="yes"/>
+      <point x="89.4372" y="681.0840000000001"/>
+      <point x="30.332" y="633.5332000000001"/>
+      <point x="30.332" y="543.3199999999999" type="curve" smooth="yes"/>
+      <point x="30.332" y="452.218"/>
+      <point x="89.4372" y="405.556"/>
+    </contour>
+    <contour>
+      <point x="180.5392" y="437.5528" type="curve" smooth="yes"/>
+      <point x="109.87960000000001" y="437.5528"/>
+      <point x="67.2172" y="470.4384"/>
+      <point x="67.2172" y="543.3199999999999" type="curve" smooth="yes"/>
+      <point x="67.2172" y="614.8684000000001"/>
+      <point x="109.87960000000001" y="649.0871999999999"/>
+      <point x="180.5392" y="649.0871999999999" type="curve" smooth="yes"/>
+      <point x="251.1988" y="649.0871999999999"/>
+      <point x="293.8612" y="614.8684000000001"/>
+      <point x="293.8612" y="543.3199999999999" type="curve" smooth="yes"/>
+      <point x="293.8612" y="470.4384"/>
+      <point x="251.1988" y="437.5528"/>
+    </contour>
   </outline>
   <lib>
     <dict>
