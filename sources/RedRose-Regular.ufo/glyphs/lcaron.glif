@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="242"/>
+  <unicode hex="013E"/>
+  <outline>
+    <component base="l"/>
+    <component base="apostrophemod" xOffset="160" yOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/09 16:34:57</string>
+    </dict>
+  </lib>
+</glyph>

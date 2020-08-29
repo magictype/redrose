@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="-292" y="468" name="_top"/>
+  <anchor x="-298" y="752" name="top"/>
+  <outline>
+    <component base="hungarumlautcomb" xScale="-1" xOffset="-685"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

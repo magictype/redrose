@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="526"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="213" y="181" type="curve" smooth="yes"/>
+      <point x="228" y="181"/>
+      <point x="263" y="275"/>
+      <point x="263" y="290" type="curve"/>
+      <point x="362" y="318"/>
+      <point x="446" y="381"/>
+      <point x="446" y="473" type="curve" smooth="yes"/>
+      <point x="446" y="541"/>
+      <point x="389" y="609"/>
+      <point x="253" y="609" type="curve" smooth="yes"/>
+      <point x="157" y="609"/>
+      <point x="98" y="592"/>
+      <point x="80" y="579" type="curve"/>
+      <point x="100" y="475" type="line"/>
+      <point x="100" y="445" type="line"/>
+      <point x="124" y="472"/>
+      <point x="178" y="508"/>
+      <point x="238" y="508" type="curve" smooth="yes"/>
+      <point x="283" y="508"/>
+      <point x="294" y="488"/>
+      <point x="294" y="458" type="curve" smooth="yes"/>
+      <point x="294" y="409"/>
+      <point x="240" y="359"/>
+      <point x="172" y="340" type="curve"/>
+      <point x="172" y="243"/>
+      <point x="200" y="181"/>
+    </contour>
+    <component base="period" xOffset="86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:20:05</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

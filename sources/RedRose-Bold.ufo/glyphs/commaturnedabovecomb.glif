@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="-225" y="468" name="_top"/>
+  <anchor x="-225" y="760" name="top"/>
+  <outline>
+    <component base="comma" xScale="-0.90909" yScale="-0.90909" xOffset="-132" yOffset="661"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

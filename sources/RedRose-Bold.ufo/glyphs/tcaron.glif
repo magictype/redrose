@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="433"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t"/>
+    <component base="apostrophemod" xOffset="220" yOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/09 16:35:45</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright" format="2">
+  <outline>
+    <contour>
+      <point x="50" y="-90" type="curve"/>
+      <point x="99" y="-90"/>
+      <point x="263" y="9"/>
+      <point x="263" y="299" type="curve"/>
+      <point x="263" y="589"/>
+      <point x="99" y="679"/>
+      <point x="50" y="679" type="curve"/>
+      <point x="50" y="656"/>
+      <point x="31" y="639"/>
+      <point x="31" y="639" type="curve"/>
+      <point x="31" y="639"/>
+      <point x="27" y="639"/>
+      <point x="41" y="639" type="curve"/>
+      <point x="94" y="639"/>
+      <point x="194" y="551"/>
+      <point x="194" y="299" type="curve"/>
+      <point x="194" y="47"/>
+      <point x="94" y="-50"/>
+      <point x="41" y="-50" type="curve"/>
+      <point x="27" y="-50"/>
+      <point x="31" y="-50"/>
+      <point x="31" y="-50" type="curve"/>
+      <point x="31" y="-50"/>
+      <point x="50" y="-69"/>
+    </contour>
+  </outline>
+</glyph>

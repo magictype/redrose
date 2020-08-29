@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="400">
+      <map input="300" output="62"/>
+      <map input="400" output="102"/>
+      <map input="700" output="142"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="RedRose-ExtraLight.ufo" name="Red Rose Light" familyname="Red Rose" stylename="Light">
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+    </source>
+    <source filename="RedRose-Regular.ufo" name="Red Rose Regular" familyname="Red Rose" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="102"/>
+      </location>
+    </source>
+    <source filename="RedRose-Bold.ufo" name="Red Rose Bold" familyname="Red Rose" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="142"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Red Rose Light" familyname="Red Rose" stylename="Light" filename="instance_ufos/RedRose-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4</key>
+            <real>0.2</real>
+            <key>CA5CD7F6-F0E6-40F5-9716-481B35A0BC32</key>
+            <real>0.8</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Red Rose Regular" familyname="Red Rose" stylename="Regular" filename="instance_ufos/RedRose-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="102"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Red Rose Bold" familyname="Red Rose" stylename="Bold" filename="instance_ufos/RedRose-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="142"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>1A280FA7-9E72-4FC3-84C1-49B7BD56B269</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>083550D2-F2E8-44E3-BE3D-E8BDF41EDFC4</key>
+        <dict/>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi" format="2">
+  <outline>
+    <contour>
+      <point x="69" y="0" type="curve"/>
+      <point x="265" y="0" type="line"/>
+      <point x="265" y="0"/>
+      <point x="244" y="1"/>
+      <point x="244" y="60" type="curve"/>
+      <point x="244" y="455" type="line"/>
+      <point x="244" y="484"/>
+      <point x="245" y="485"/>
+      <point x="285" y="485" type="curve"/>
+      <point x="320" y="485" type="line"/>
+      <point x="359" y="485"/>
+      <point x="360" y="485"/>
+      <point x="360" y="455" type="curve"/>
+      <point x="360" y="60" type="line"/>
+      <point x="360" y="1"/>
+      <point x="339" y="0"/>
+      <point x="339" y="0" type="curve"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="0"/>
+      <point x="512" y="1"/>
+      <point x="512" y="60" type="curve"/>
+      <point x="512" y="498" type="line"/>
+      <point x="512" y="578"/>
+      <point x="552" y="599"/>
+      <point x="552" y="599" type="curve"/>
+      <point x="50" y="599" type="line"/>
+      <point x="50" y="599"/>
+      <point x="90" y="578"/>
+      <point x="90" y="499" type="curve"/>
+      <point x="90" y="60" type="line"/>
+      <point x="90" y="1"/>
+      <point x="69" y="0"/>
+    </contour>
+  </outline>
+</glyph>

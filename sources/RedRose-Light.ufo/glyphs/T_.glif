@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="596"/>
+  <unicode hex="0054"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="299" y="300" name="center"/>
+  <anchor x="299" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="251" y="0" type="curve" smooth="yes"/>
+      <point x="346" y="0" type="line" smooth="yes"/>
+      <point x="337" y="0"/>
+      <point x="325" y="17"/>
+      <point x="325" y="60" type="curve" smooth="yes"/>
+      <point x="325" y="530" type="line" smooth="yes"/>
+      <point x="325" y="559"/>
+      <point x="325" y="560"/>
+      <point x="366" y="560" type="curve" smooth="yes"/>
+      <point x="446" y="560" type="line" smooth="yes"/>
+      <point x="523" y="560"/>
+      <point x="571" y="551"/>
+      <point x="586" y="544" type="curve"/>
+      <point x="566" y="590" type="line"/>
+      <point x="566" y="600" type="line"/>
+      <point x="30" y="600" type="line"/>
+      <point x="30" y="590" type="line"/>
+      <point x="10" y="544" type="line"/>
+      <point x="25" y="551"/>
+      <point x="73" y="560"/>
+      <point x="150" y="560" type="curve" smooth="yes"/>
+      <point x="232" y="560" type="line" smooth="yes"/>
+      <point x="272" y="560"/>
+      <point x="272" y="559"/>
+      <point x="272" y="530" type="curve" smooth="yes"/>
+      <point x="272" y="60" type="line" smooth="yes"/>
+      <point x="272" y="17"/>
+      <point x="260" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:20:05</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

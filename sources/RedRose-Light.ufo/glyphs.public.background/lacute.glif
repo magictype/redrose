@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <outline>
+    <contour>
+      <point x="50" y="0" type="curve"/>
+      <point x="142" y="0" type="line"/>
+      <point x="133" y="0"/>
+      <point x="122" y="17"/>
+      <point x="122" y="60" type="curve" smooth="yes"/>
+      <point x="122" y="710" type="line"/>
+      <point x="115" y="701"/>
+      <point x="90" y="690"/>
+      <point x="50" y="690" type="curve"/>
+      <point x="59" y="689"/>
+      <point x="70" y="672"/>
+      <point x="70" y="630" type="curve" smooth="yes"/>
+      <point x="70" y="60" type="line" smooth="yes"/>
+      <point x="70" y="17"/>
+      <point x="59" y="0"/>
+    </contour>
+    <contour>
+      <point x="59" y="750" type="curve" smooth="yes"/>
+      <point x="78" y="750"/>
+      <point x="151" y="850"/>
+      <point x="193" y="909" type="curve" smooth="yes"/>
+      <point x="208" y="930"/>
+      <point x="208" y="940"/>
+      <point x="190" y="940" type="curve" smooth="yes"/>
+      <point x="179" y="940" type="line" smooth="yes"/>
+      <point x="156" y="940"/>
+      <point x="144" y="932"/>
+      <point x="130" y="910" type="curve" smooth="yes"/>
+      <point x="103" y="869"/>
+      <point x="48" y="750"/>
+    </contour>
+  </outline>
+</glyph>

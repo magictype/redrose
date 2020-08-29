@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance width="472"/>
+  <unicode hex="2052"/>
+  <outline>
+    <component base="period" xOffset="10" yOffset="660"/>
+    <component base="period" xOffset="250"/>
+    <component base="slash" xOffset="20" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

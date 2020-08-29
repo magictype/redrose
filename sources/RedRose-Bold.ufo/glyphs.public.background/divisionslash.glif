@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <outline>
+    <contour>
+      <point x="-150" y="1" type="curve"/>
+      <point x="-6" y="1" type="line"/>
+      <point x="-6" y="1"/>
+      <point x="-34" y="8"/>
+      <point x="3" y="61" type="curve"/>
+      <point x="43" y="118"/>
+      <point x="305" y="476"/>
+      <point x="349" y="540" type="curve"/>
+      <point x="391" y="600"/>
+      <point x="411" y="601"/>
+      <point x="411" y="601" type="curve"/>
+      <point x="266" y="601" type="line"/>
+      <point x="266" y="601"/>
+      <point x="291" y="600"/>
+      <point x="257" y="541" type="curve"/>
+      <point x="225" y="485"/>
+      <point x="-49" y="115"/>
+      <point x="-89" y="61" type="curve"/>
+      <point x="-132" y="3"/>
+      <point x="-150" y="1"/>
+    </contour>
+  </outline>
+</glyph>

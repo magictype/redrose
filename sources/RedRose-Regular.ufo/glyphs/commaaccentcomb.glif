@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="-206" y="0" name="_bottom"/>
+  <anchor x="-214" y="-370" name="bottom"/>
+  <outline>
+    <component base="comma" xScale="0.90909" yScale="0.90909" xOffset="-319" yOffset="-160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>
