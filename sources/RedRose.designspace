@@ -8,7 +8,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="RedRose-ExtraLight.ufo" name="Red Rose Light" familyname="Red Rose" stylename="Light">
+    <source filename="RedRose-Light.ufo" name="Red Rose Light" familyname="Red Rose" stylename="Light">
       <location>
         <dimension name="Weight" xvalue="62"/>
       </location>

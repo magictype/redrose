@@ -4,7 +4,7 @@
   <anchor x="-292" y="468" name="_top"/>
   <anchor x="-292" y="756" name="top"/>
   <outline>
-    <component base="hungarumlautcomb" xScale="-1" xOffset="-685"/>
+    <component base="hungarumlautcomb" xScale="-1" xOffset="-618"/>
   </outline>
   <lib>
     <dict>
