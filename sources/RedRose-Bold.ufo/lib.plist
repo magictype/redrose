@@ -6,6 +6,19 @@
     <integer>0</integer>
     <key>GSOffsetVertical</key>
     <integer>0</integer>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>flattenComponents</string>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1230</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
