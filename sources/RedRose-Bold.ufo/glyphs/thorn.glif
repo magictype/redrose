@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="600"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="44" y="-222" type="curve" smooth="yes"/>
+      <point x="226" y="-222" type="line" smooth="yes"/>
+      <point x="217" y="-222"/>
+      <point x="206" y="-205"/>
+      <point x="206" y="-162" type="curve" smooth="yes"/>
+      <point x="206" y="6" type="line"/>
+      <point x="204" y="26" type="line"/>
+      <point x="206" y="27" type="line"/>
+      <point x="233" y="3"/>
+      <point x="280" y="-10"/>
+      <point x="332" y="-10" type="curve" smooth="yes"/>
+      <point x="520" y="-10"/>
+      <point x="570" y="94"/>
+      <point x="570" y="233" type="curve" smooth="yes"/>
+      <point x="570" y="372"/>
+      <point x="517" y="478"/>
+      <point x="332" y="478" type="curve" smooth="yes"/>
+      <point x="280" y="478"/>
+      <point x="225" y="457"/>
+      <point x="206" y="440" type="curve"/>
+      <point x="204" y="441" type="line"/>
+      <point x="206" y="460" type="line"/>
+      <point x="206" y="689" type="line"/>
+      <point x="44" y="689" type="line"/>
+      <point x="53" y="688"/>
+      <point x="64" y="671"/>
+      <point x="64" y="629" type="curve" smooth="yes"/>
+      <point x="64" y="-162" type="line" smooth="yes"/>
+      <point x="64" y="-205"/>
+      <point x="53" y="-222"/>
+    </contour>
+    <contour>
+      <point x="312" y="91" type="curve" smooth="yes"/>
+      <point x="246" y="91"/>
+      <point x="206" y="128"/>
+      <point x="206" y="232" type="curve" smooth="yes"/>
+      <point x="206" y="334"/>
+      <point x="245" y="378"/>
+      <point x="312" y="378" type="curve" smooth="yes"/>
+      <point x="395" y="378"/>
+      <point x="428" y="343"/>
+      <point x="428" y="233" type="curve" smooth="yes"/>
+      <point x="428" y="123"/>
+      <point x="396" y="91"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:20:05</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

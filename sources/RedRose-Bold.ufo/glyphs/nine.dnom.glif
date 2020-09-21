@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnom" format="2">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="141.0" y="-10.0" type="curve" smooth="yes"/>
+      <point x="232.0" y="-10.0"/>
+      <point x="288.0" y="34.0"/>
+      <point x="288.0" y="147.0" type="curve" smooth="yes"/>
+      <point x="288.0" y="251.5"/>
+      <point x="244.5" y="299.0"/>
+      <point x="151.5" y="299.0" type="curve" smooth="yes"/>
+      <point x="141.0" y="299.0" type="line" smooth="yes"/>
+      <point x="45.5" y="299.0"/>
+      <point x="20.0" y="246.0"/>
+      <point x="20.0" y="197.5" type="curve" smooth="yes"/>
+      <point x="20.0" y="138.0"/>
+      <point x="52.5" y="96.5"/>
+      <point x="136.0" y="96.5" type="curve" smooth="yes"/>
+      <point x="188.5" y="96.5"/>
+      <point x="206.5" y="117.0"/>
+      <point x="211.5" y="125.5" type="curve"/>
+      <point x="212.5" y="125.0" type="line"/>
+      <point x="212.5" y="74.5"/>
+      <point x="188.0" y="46.5"/>
+      <point x="131.5" y="46.5" type="curve" smooth="yes"/>
+      <point x="73.5" y="46.5"/>
+      <point x="36.5" y="75.5"/>
+      <point x="35.0" y="76.0" type="curve"/>
+      <point x="35.0" y="61.0" type="line"/>
+      <point x="25.0" y="10.0" type="line"/>
+      <point x="41.0" y="1.5"/>
+      <point x="83.5" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="152.5" y="151.5" type="curve" smooth="yes"/>
+      <point x="110.0" y="151.5"/>
+      <point x="96.0" y="169.0"/>
+      <point x="96.0" y="194.5" type="curve" smooth="yes"/>
+      <point x="96.0" y="231.5"/>
+      <point x="114.0" y="243.5"/>
+      <point x="150.0" y="243.5" type="curve" smooth="yes"/>
+      <point x="190.5" y="243.5"/>
+      <point x="206.0" y="230.5"/>
+      <point x="206.0" y="196.5" type="curve" smooth="yes"/>
+      <point x="206.0" y="162.0"/>
+      <point x="184.0" y="151.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>nine</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <outline>
+    <contour>
+      <point x="40" y="-80" type="curve"/>
+      <point x="220" y="-80" type="line"/>
+      <point x="220" y="-80"/>
+      <point x="210" y="-79"/>
+      <point x="210" y="-20" type="curve"/>
+      <point x="210" y="628" type="line"/>
+      <point x="210" y="688"/>
+      <point x="220" y="689"/>
+      <point x="220" y="689" type="curve"/>
+      <point x="40" y="689" type="line"/>
+      <point x="40" y="657"/>
+      <point x="30" y="629"/>
+      <point x="30" y="629" type="curve"/>
+      <point x="111" y="639" type="line"/>
+      <point x="111" y="-30" type="line"/>
+      <point x="30" y="-20" type="line"/>
+      <point x="30" y="-20"/>
+      <point x="40" y="-48"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute" format="2">
+  <outline>
+    <contour>
+      <point x="32" y="560" type="curve" smooth="yes"/>
+      <point x="51" y="560"/>
+      <point x="124" y="660"/>
+      <point x="166" y="719" type="curve" smooth="yes"/>
+      <point x="181" y="740"/>
+      <point x="181" y="750"/>
+      <point x="163" y="750" type="curve" smooth="yes"/>
+      <point x="152" y="750" type="line" smooth="yes"/>
+      <point x="129" y="750"/>
+      <point x="117" y="742"/>
+      <point x="103" y="720" type="curve" smooth="yes"/>
+      <point x="76" y="679"/>
+      <point x="21" y="560"/>
+    </contour>
+  </outline>
+</glyph>

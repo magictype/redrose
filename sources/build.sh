@@ -1,41 +1,82 @@
-# source venv/bin/activate
+#!/bin/sh
 set -e
 
-mkdir -p ../fonts ../fonts/ttf ../fonts/otf ../fonts/woff2
+# Go the sources directory to run commands
+SOURCE="${BASH_SOURCE[0]}"
+DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+cd $DIR
+echo $(pwd)
+
+rm -rf ../fonts
 
 
-echo "GENERATING TTFs"
-fontmake -g RedRose.glyphs -o ttf -i --output-dir ../fonts/ttf -a
+echo "Generating Static fonts"
+mkdir -p ../fonts/ttf
+fontmake -m RedRose.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m RedRose.designspace -i -o otf --output-dir ../fonts/otf/
 
-echo "POST PROCESSING TTFs"
-for f in ../fonts/ttf/*.ttf
+echo "Generating VFs"
+mkdir -p ../fonts/variable/
+fontmake -m RedRose.designspace -o variable --output-path ../fonts/variable/RedRose[wght].ttf
+
+
+rm -rf master_ufo/ instance_ufo/ instance_ufos/
+
+
+echo "Post processing"
+ttfs=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttfs
 do
-	#echo 'Processing $f'
-	gftools fix-dsig --autofix $f
-	gftools fix-hinting $f
-	mv $f.fix $f
+	gftools fix-dsig -f $ttf;
+	python3 -m ttfautohint $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+	# enable glyf table OVERLAP_COMPOUND on first component flags
+	python -c $'import sys; from fontTools.ttLib import TTFont; p=sys.argv[-1]; f=TTFont(p); t=f["glyf"]\nfor g in [t[k] for k in t.keys()]:\n if g.isComposite():\n  g.components[0].flags |= 0x0400\nf.save(p)' $ttf
 done
 
-echo "GENERATING WOFFs"
-ttfs=$(ls ../fonts/*/*.ttf)
-for ttf in $ttfs; do
-    woff2_compress $ttf
-done
 
-woff2s=$(ls ../fonts/*/*.woff2)
-for woff2 in $woff2s; do
-    mv $woff2 ../fonts/woff2/$(basename $woff2)
-done
+vfs=$(ls ../fonts/variable/*.ttf)
 
-echo "GENERATING OTFs"
-fontmake -g RedRose.glyphs -o otf -i --output-dir ../fonts/otf -a
-
-echo "POST PROCESSING OTFs"
-for f in ../fonts/otf/*.otf
+echo "Post processing VFs"
+for vf in $vfs
 do
-	gftools fix-dsig --autofix $f
+	gftools fix-dsig -f $vf;
+	# ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
 done
 
-# Clean up
-rm -r instance_ufo
-rm -r master_ufo
+
+
+echo "Fixing VF Meta"
+gftools fix-vf-meta $vfs;
+
+echo "Dropping MVAR"
+for vf in $vfs
+do
+	mv "$vf.fix" $vf;
+	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
+	rtrip=$(basename -s .ttf $vf)
+	new_file=../fonts/variable/$rtrip.ttx;
+	rm $vf;
+	ttx $new_file
+	rm $new_file
+done
+
+
+echo "Fix Hinting"
+for vf in $vfs
+do
+	gftools fix-nonhinting $vf $vf.fix;
+	mv "$vf.fix" $vf;
+done
+
+for ttf in $ttfs
+do
+	gftools fix-hinting $ttf;
+	mv "$ttf.fix" $ttf;
+done
+
+rm -f ../fonts/variable/*.ttx
+rm -f ../fonts/ttf/*.ttx
+rm -f ../fonts/variable/*gasp.ttf
+rm -f ../fonts/ttf/*gasp.ttf

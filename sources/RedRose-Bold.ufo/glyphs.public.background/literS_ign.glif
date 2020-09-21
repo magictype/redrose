@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="literSign" format="2">
+  <outline>
+    <contour>
+      <point x="68" y="107" type="line"/>
+      <point x="68" y="107"/>
+      <point x="476" y="321"/>
+      <point x="476" y="626" type="curve"/>
+      <point x="476" y="690"/>
+      <point x="428" y="757"/>
+      <point x="347" y="757" type="curve"/>
+      <point x="250" y="757"/>
+      <point x="191" y="696"/>
+      <point x="191" y="581" type="curve"/>
+      <point x="333" y="621" type="line"/>
+      <point x="333" y="650"/>
+      <point x="334" y="686"/>
+      <point x="357" y="686" type="curve"/>
+      <point x="382" y="686"/>
+      <point x="394" y="660"/>
+      <point x="394" y="626" type="curve"/>
+      <point x="394" y="362"/>
+      <point x="10" y="197"/>
+      <point x="10" y="197" type="curve"/>
+    </contour>
+    <contour>
+      <point x="321" y="-10" type="curve"/>
+      <point x="389" y="-10"/>
+      <point x="469" y="12"/>
+      <point x="503" y="51" type="curve"/>
+      <point x="473" y="132" type="line"/>
+      <point x="473" y="132"/>
+      <point x="424" y="75"/>
+      <point x="373" y="75" type="curve"/>
+      <point x="345" y="75"/>
+      <point x="333" y="87"/>
+      <point x="333" y="121" type="curve"/>
+      <point x="333" y="621" type="line"/>
+      <point x="191" y="581" type="line"/>
+      <point x="191" y="151" type="line"/>
+      <point x="191" y="41"/>
+      <point x="220" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

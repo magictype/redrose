@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macroncomb" format="2">
+  <unicode hex="0304"/>
+  <anchor x="-300" y="478" name="_top"/>
+  <anchor x="-300" y="706" name="top"/>
+  <outline>
+    <contour>
+      <point x="-478" y="555" type="curve"/>
+      <point x="-469" y="559"/>
+      <point x="-431" y="565"/>
+      <point x="-358" y="565" type="curve" smooth="yes"/>
+      <point x="-142" y="565" type="line"/>
+      <point x="-142" y="585"/>
+      <point x="-131" y="611"/>
+      <point x="-122" y="625" type="curve" smooth="yes"/>
+      <point x="-125" y="621"/>
+      <point x="-154" y="615"/>
+      <point x="-222" y="615" type="curve" smooth="yes"/>
+      <point x="-458" y="615" type="line"/>
+      <point x="-458" y="589"/>
+      <point x="-469" y="566"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:20:05</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

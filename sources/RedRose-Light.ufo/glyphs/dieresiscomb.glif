@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-236" y="468" name="_top"/>
+  <anchor x="-239" y="675" name="top"/>
+  <outline>
+    <component base="period" xOffset="-416" yOffset="575"/>
+    <component base="period" xOffset="-266" yOffset="575"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

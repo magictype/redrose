@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.dnom" format="2">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="162.0" y="-5.0" type="curve" smooth="yes"/>
+      <point x="249.5" y="-5.0"/>
+      <point x="288.0" y="34.0"/>
+      <point x="288.0" y="89.5" type="curve" smooth="yes"/>
+      <point x="288.0" y="157.5"/>
+      <point x="249.0" y="187.0"/>
+      <point x="162.0" y="187.0" type="curve" smooth="yes"/>
+      <point x="116.0" y="187.0" type="line" smooth="yes"/>
+      <point x="96.0" y="187.0"/>
+      <point x="96.0" y="187.0"/>
+      <point x="96.0" y="202.0" type="curve" smooth="yes"/>
+      <point x="96.0" y="260.0" type="line"/>
+      <point x="172.0" y="260.0" type="line" smooth="yes"/>
+      <point x="231.0" y="260.0"/>
+      <point x="263.5" y="254.5"/>
+      <point x="271.0" y="250.0" type="curve"/>
+      <point x="261.0" y="290.0" type="line"/>
+      <point x="261.0" y="300.0" type="line"/>
+      <point x="40.0" y="300.0" type="line"/>
+      <point x="40.0" y="139.0" type="line"/>
+      <point x="53.0" y="143.5"/>
+      <point x="91.0" y="149.0"/>
+      <point x="147.5" y="149.0" type="curve" smooth="yes"/>
+      <point x="204.5" y="149.0"/>
+      <point x="232.0" y="130.0"/>
+      <point x="232.0" y="93.5" type="curve" smooth="yes"/>
+      <point x="232.0" y="55.0"/>
+      <point x="210.5" y="35.0"/>
+      <point x="153.0" y="35.0" type="curve" smooth="yes"/>
+      <point x="88.5" y="35.0"/>
+      <point x="45.0" y="57.0"/>
+      <point x="30.0" y="73.5" type="curve"/>
+      <point x="30.0" y="63.5" type="line"/>
+      <point x="20.0" y="15.0" type="line"/>
+      <point x="40.0" y="6.5"/>
+      <point x="92.5" y="-5.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>five</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="-225" y="468" name="_top"/>
+  <anchor x="-225" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="-203.63629" y="769.0908" type="line"/>
+      <point x="-253.63624" y="764.54535"/>
+      <point x="-312.72709" y="721.81812"/>
+      <point x="-312.72709" y="650.9091" type="curve" smooth="yes"/>
+      <point x="-312.72709" y="604.54551"/>
+      <point x="-289.09074999999996" y="560.0001"/>
+      <point x="-230.90899" y="560.0001" type="curve" smooth="yes"/>
+      <point x="-194.54539" y="560.0001"/>
+      <point x="-175.4545" y="582.72735"/>
+      <point x="-175.4545" y="610.00005" type="curve" smooth="yes"/>
+      <point x="-175.4545" y="637.27275"/>
+      <point x="-195.45448" y="660.0"/>
+      <point x="-230.90899" y="660.0" type="curve" smooth="yes"/>
+      <point x="-236.36353" y="660.0"/>
+      <point x="-244.54534" y="659.09091"/>
+      <point x="-249.09079" y="658.18182" type="curve"/>
+      <point x="-254.54532999999998" y="688.18179"/>
+      <point x="-237.27262" y="725.45448"/>
+      <point x="-185.45449" y="737.27265" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

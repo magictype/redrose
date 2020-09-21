@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="approxequal" format="2">
+  <outline>
+    <contour>
+      <point x="283" y="340" type="curve"/>
+      <point x="356" y="340"/>
+      <point x="370" y="390"/>
+      <point x="370" y="390" type="curve"/>
+      <point x="370" y="429" type="line"/>
+      <point x="358" y="415"/>
+      <point x="330" y="380"/>
+      <point x="283" y="380" type="curve"/>
+      <point x="220" y="380"/>
+      <point x="181" y="440"/>
+      <point x="122" y="440" type="curve"/>
+      <point x="51" y="440"/>
+      <point x="30" y="390"/>
+      <point x="30" y="390" type="curve"/>
+      <point x="30" y="351" type="line"/>
+      <point x="51" y="369"/>
+      <point x="76" y="400"/>
+      <point x="122" y="400" type="curve"/>
+      <point x="179" y="400"/>
+      <point x="215" y="340"/>
+    </contour>
+    <contour>
+      <point x="283" y="180" type="curve"/>
+      <point x="356" y="180"/>
+      <point x="370" y="230"/>
+      <point x="370" y="230" type="curve"/>
+      <point x="370" y="269" type="line"/>
+      <point x="358" y="255"/>
+      <point x="330" y="220"/>
+      <point x="283" y="220" type="curve"/>
+      <point x="220" y="220"/>
+      <point x="181" y="280"/>
+      <point x="122" y="280" type="curve"/>
+      <point x="51" y="280"/>
+      <point x="30" y="230"/>
+      <point x="30" y="230" type="curve"/>
+      <point x="30" y="191" type="line"/>
+      <point x="51" y="209"/>
+      <point x="76" y="240"/>
+      <point x="122" y="240" type="curve"/>
+      <point x="179" y="240"/>
+      <point x="215" y="180"/>
+    </contour>
+  </outline>
+</glyph>

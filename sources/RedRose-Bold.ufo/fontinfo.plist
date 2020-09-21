@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>756</integer>
+    <key>capHeight</key>
+    <integer>600</integer>
+    <key>copyright</key>
+    <string>Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)</string>
+    <key>descender</key>
+    <integer>-234</integer>
+    <key>familyName</key>
+    <string>Red Rose</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2018/02/14 06:19:28</string>
+    <key>openTypeHheaAscender</key>
+    <integer>937</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-312</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Jaikishan Patel</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://jaiki.in</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://magictype.in</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>937</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-312</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1110</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>690</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-10</integer>
+      <integer>0</integer>
+      <integer>468</integer>
+      <integer>478</integer>
+      <integer>600</integer>
+      <integer>610</integer>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-244</integer>
+      <integer>-234</integer>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>100</integer>
+      <integer>110</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>142</integer>
+      <integer>154</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleName</key>
+    <string>Bold</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>468</integer>
+  </dict>
+</plist>

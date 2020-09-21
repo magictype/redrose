@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="440"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="30" y="250" type="line"/>
+      <point x="410" y="250" type="line"/>
+      <point x="410" y="350" type="line"/>
+      <point x="30" y="350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

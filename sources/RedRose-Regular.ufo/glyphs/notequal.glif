@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="440"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="100" y="110" type="line"/>
+      <point x="163" y="110" type="line"/>
+      <point x="332" y="470" type="line"/>
+      <point x="269" y="470" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020/07/02 15:19:18</string>
+    </dict>
+  </lib>
+</glyph>

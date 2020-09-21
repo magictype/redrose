@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <outline>
+    <contour>
+      <point x="304" y="-10" type="curve"/>
+      <point x="470" y="-10"/>
+      <point x="576" y="98"/>
+      <point x="576" y="304" type="curve"/>
+      <point x="576" y="486"/>
+      <point x="494" y="608"/>
+      <point x="284" y="608" type="curve"/>
+      <point x="129" y="608"/>
+      <point x="70" y="568"/>
+      <point x="70" y="568" type="curve"/>
+      <point x="80" y="468" type="line"/>
+      <point x="80" y="438" type="line"/>
+      <point x="80" y="438"/>
+      <point x="178" y="508"/>
+      <point x="284" y="508" type="curve"/>
+      <point x="419" y="508"/>
+      <point x="424" y="392"/>
+      <point x="424" y="305" type="curve"/>
+      <point x="40" y="305" type="line"/>
+      <point x="40" y="233" type="line"/>
+      <point x="40" y="91"/>
+      <point x="117" y="-10"/>
+    </contour>
+    <contour>
+      <point x="304" y="91" type="curve"/>
+      <point x="218" y="91"/>
+      <point x="192" y="129"/>
+      <point x="192" y="193" type="curve"/>
+      <point x="192" y="205" type="line"/>
+      <point x="424" y="205" type="line"/>
+      <point x="424" y="125"/>
+      <point x="388" y="91"/>
+    </contour>
+  </outline>
+</glyph>
